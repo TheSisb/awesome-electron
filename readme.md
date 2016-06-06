@@ -161,6 +161,7 @@ Made with Electron.
 - [MongoDB Compass](https://www.mongodb.com/products/compass) - Official MongoDB app.
 - [Freeter](https://freeter.io) - Organizer for freelancers & creatives.
 - [WhatsApp](https://www.whatsapp.com/download/) - Official WhatsApp app.
+- [Discord](https://discordapp.com) - Text and voice chat for gamers. Desktop version.
 
 
 ## Boilerplates
